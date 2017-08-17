@@ -20,7 +20,10 @@ public abstract class ThreadPoolConsumer<T> implements Consumer<T> {
             @Override
             public void run() {
                 try {
+                    long threadId = Thread.currentThread().getId();
+                    System.out.println("I am thread " + threadId + " of " + threadCount);
                     doAdd(data);
+
                 } catch (Exception e) {
                     e.printStackTrace();
                 }

@@ -11,7 +11,6 @@ import java.util.Collection;
 public class ResultSetMapper {
     public static void main(String[] args) {
 
-        PreparedStatement preparedStatement = null;
         try {
             // Step 1: "Load" the JDBC driver
             Class.forName("com.mysql.jdbc.Driver");
@@ -23,17 +22,17 @@ public class ResultSetMapper {
             // preparedStatement = conn.prepareStatement("select * from catalog.item limit 10");
             ResultSet rs = null;
             for (CassandraFetcher ca : CassandraFetcher.values()) {
-                Object o = ca.getClazz().newInstance();
                 rs = conn.prepareStatement(ca.getSQL_query()).executeQuery();
-                ca.getClazz().getSimpleName();
                 Collection<TableFormat> collectionItems = new ArrayList<>();
                 while (rs.next()) {
                     Object obj = pouplateValue(ca.getClazz(), rs);
-                    TableFormat tb = (TableFormat) obj;
-                    collectionItems.add(tb);
+                    if(ca.getClazz().isInstance(obj)){
+                        collectionItems.add((TableFormat) obj);
+                    }
                 }
                 collectionItems.forEach(System.out::println);
             }
+
         } catch (Exception e) {
             System.err.println("D'oh! Got an exception!");
             System.err.println(e.getMessage());

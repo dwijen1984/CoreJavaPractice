@@ -1,7 +1,5 @@
 package com.dwijen.predicate.practice;
 
-import com.dwijen.programming.Consumer;
-
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
