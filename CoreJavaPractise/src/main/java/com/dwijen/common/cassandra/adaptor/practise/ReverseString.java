@@ -1,5 +1,7 @@
 package com.dwijen.common.cassandra.adaptor.practise;
 
+import java.util.Arrays;
+
 /**
  * Created by dkirtan on 6/27/17.
  */
@@ -40,4 +42,5 @@ public class ReverseString {
         }
         return new String(word);
     }
+
 }
