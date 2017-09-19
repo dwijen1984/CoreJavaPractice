@@ -22,6 +22,7 @@ public abstract class  RunnableClass<T> implements Iconsumer<T>{
             @Override
             public void run() {
                 doAdd(type);
+                System.out.println(Thread.currentThread().getName());
             }
         });
     }

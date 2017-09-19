@@ -1,5 +1,7 @@
 package com.dwijen.predicate.practice;
 
+import org.junit.Test;
+
 import java.util.Arrays;
 import java.util.Collection;
 
@@ -17,8 +19,8 @@ public class ConsumerTest {
      *  5. now finally get the RunnableClass object and call the add method, which will add objects in the threadpool
      *
      **/
-
-    public void main(String args[]){
+    @Test
+    public void main(){
         java.util.function.Consumer<String> consumer = (x->{
             if(x.length() > 3){
                 System.out.println(x);
@@ -28,8 +30,6 @@ public class ConsumerTest {
         Collection<String> it = Arrays.asList("a","this","letter");
         RunnableClass<String> runnableClass =RunnableClassCalling(consumer);
         it.stream().forEach(x->runnableClass.add(x));
-
-
 
     }
 

@@ -44,7 +44,7 @@ public class TwoSome {
     }
 
     public static void main(String[] args){
-        int[] arays = {3,3};
+        int[] arays = {1,2,3,3};
         int target = 6;
         //int[] outPut = twoSum_2(arays, target);
         int[] outPut = twoSum(arays, target);
