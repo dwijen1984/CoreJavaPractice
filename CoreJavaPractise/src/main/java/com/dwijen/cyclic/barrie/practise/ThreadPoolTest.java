@@ -11,7 +11,7 @@ import java.util.concurrent.Executors;
 public class ThreadPoolTest {
 
     public static void main(String[] args){
-        ExecutorService executor = Executors.newFixedThreadPool(30);
+        ExecutorService executor = Executors.newFixedThreadPool(3);
         String[] hostList = { "https://crunchify.com", "http://yahoo.com",
                 "http://www.ebay.com", "http://google.com",
                 "http://www.example.co", "https://paypal.com",
@@ -28,6 +28,7 @@ public class ThreadPoolTest {
             String url = hostList[i];
             Runnable worker = new MyRunnable(url);
             executor.execute(worker);
+
         }
         executor.shutdown();
         // Wait until all threads are finish
@@ -58,10 +59,12 @@ public class ThreadPoolTest {
 
                 code = connection.getResponseCode();
                 if (code == 200) {
-                    result = "Green\t";
+                    result = "Green\t"+Thread.currentThread().getName();
+                }else{
+                    result = "Green but not 200\t"+Thread.currentThread().getName();
                 }
             } catch (Exception e) {
-                result = "->Red<-\t";
+                result = "->Red<-\t"+Thread.currentThread().getName();
             }
             System.out.println(url + "\t\tStatus:" + result);
         }

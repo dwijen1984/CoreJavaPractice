@@ -44,4 +44,17 @@ public class StackCheckMainClass {
         linkedList.printAllNodes();
 
     }
+
+    @Test
+    public void test(){
+        OriginalLinkedList n = new OriginalLinkedList();
+
+        Node one = new Node(1);
+        one.next = new Node(2);
+        one.next.next = new Node(3);
+        n.add(one);
+        n.print();
+        Node n2 = n.get(1);
+        n.print();
+    }
 }

@@ -51,6 +51,14 @@ public class AddTwoLinkedList {
         l2.next = new Node(6);
         l2.next.next = new Node(4);
         Node output = addTwoNumbers(l1, l2);
-        System.out.println(output);
+        while(output.next != null){
+            System.out.print(output.value);
+            output = output.next;
+            if(output.next == null){
+                System.out.print(output.value);
+            }
+
+        }
+        //System.out.println(output);
     }
 }

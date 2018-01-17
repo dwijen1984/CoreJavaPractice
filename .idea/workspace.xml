@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1bcadc2-7011-4646-bc8e-150240dccf32" name="Default" comment="Push to Git Repo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/CourseProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/LongestSubstring.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/FindMaxDepth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/BalanceBrackets.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/SalesForce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears/Project/Test/DB2ConnectionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindConsecutiveStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Paranthesse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/AllThreads.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/HasPalindrom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/DealSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/LookupInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/OriginalLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/ReverseLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce/InstalledPackage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce/InstalledPackages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/common/cassandra/adaptor/practise/TwoSome.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/common/cassandra/adaptor/practise/TwoSome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/Enum_GF.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/Enum_GF.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/ThreadPoolTest$MyRunnable.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/ThreadPoolTest$MyRunnable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/pom.xml" afterPath="$PROJECT_DIR$/CoreJavaPractise/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/Enum_GF.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/Enum_GF.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/CoreJavaPractise/target/" />
@@ -20,104 +36,357 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/dwijenPrivate$AddTwoLinkedList_test.coverage" NAME="AddTwoLinkedList.test Coverage Results" MODIFIED="1514926003588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dwijen.java.practice.DesignPrimitiveDatastructure.*</FILTER>
+    </SUITE>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Dwijen_MergedWith_gitHub">
+      <favorite_root url="file://$PROJECT_DIR$" module="dwijenPrivate" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="dwijenPrivate" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/vcs.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/libraries" module="dwijenPrivate" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jffi_1_2_10.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_9_0_Final.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_5_0_3.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_5_0_3.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_ffi_2_0_7.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_db2_jcc_db2jcc4_10_1.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_5_0_3.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_15_0.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_5_0_3.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_posix_3_0_27.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_x86asm_1_0_2.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_db2jcc_license_cu_1_3_1.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jffi_native_1_2_10.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_47_Final.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_github_jnr_jnr_constants_0_9_0.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_db2jcc_license_cisuz_1_3_1.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_47_Final.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_47_Final.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_47_Final.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_47_Final.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_codahale_metrics_metrics_core_3_0_2.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_2_2.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/.idea/libraries/Maven__com_datastax_cassandra_cassandra_driver_core_3_3_0.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/compiler.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/encodings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/uiDesigner.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Enum" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Enum/Practice" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Enum/Practice/EnumTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Enum/Practice/StoreUnitNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/bitwise" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/bitwise/ReverserBit.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/TreeNode.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/FindMaxDepth.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/MergeBinaryTree.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/SumOfLeftLeaves.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/AddAllNodesValue.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/MainClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/ReultSetT.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/reverseLinkList" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/reverseLinkList/ProcessOne.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/BeanTypeOne.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/BeanTypeTwo.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DummyResuleSet.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/ResulSetCaller.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/VolatileExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/ResultSetWrapper.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/ExceptionPractise.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/CommonRsultsetWrapper.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Node.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Queue.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Stack.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/DjLinkedList.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/OriginalLinkedList.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/SpecificRsultsetWrapper.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/SnapShotResponseException.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/SpecificRsultsetWrapperSecond.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Redis" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Redis/practice" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Redis/practice/RedisConnection.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/DealTable.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/FieldName.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ItemTable.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TableName.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/CatalogDao.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TableFormat.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ReverseString.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ResultSetMapper.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/CassandraFetcher.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ContentItemTable.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ReverseLinkedList.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          </favorite_root>
+                        </favorite_root>
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/Enum_GF.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/EMUM_Test.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/DealSource.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/LookupInterface.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/CyclicBarrierRunnable.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/CyclicBarrierCallingClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/ComparableExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/TestComparableExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Library" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Library/Management" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Library/Management/Book.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Library/Management/TestClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Library/Management/LibrabyManager.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting/InsertionSort.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/executor" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/executor/practice" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/executor/practice/Create_table.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/executor/practice/runnableTask.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/funtional" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/funtional/Interface" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/funtional/Interface/TestConsumer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/Iconsumer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/ConsumerTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/PredicateTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/RunnableClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Searching" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Searching/BinarySearch.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/Deal.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/testingOwn" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/testingOwn/ThreadPoolRunnable.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/testingOwn/ConsumerProcessingClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          </favorite_root>
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/Consumer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/LockConcept.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/CallingClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/SemaphoreConcept.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/ThreadPoolConsumer.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                      </favorite_root>
+                    </favorite_root>
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce/InstalledPackage.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce/InstalledPackages.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears/Project" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears/Project/Test" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears/Project/Test/DB2ConnectionTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/User.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/Solution.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/HackerRank.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/UserService.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/BalanceBrackets.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/KangarooHooping.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/HackerRank.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/SalesForce.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem" module="CoreJavaPractise" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/HasPalindrom.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/RotationArray.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/NegetivePositive.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/ArraySum.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FizzBuzz.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Solution.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/AddStrings.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/KeywordRow.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/MergeArray.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/RansomNote.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Paranthesse.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/CourseProblem.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FibonaciSeries.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/IslandPerimeter.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/PalindromString.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindPrimeNumbers.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindSingleNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/JudgeRouteCircle.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/LongestSubstring.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/NumberComplement.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/AlternativeNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/DistributeCandies.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindTheDifference.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/AlternativeNumbers.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindDisappearedNumbers.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/RemoveDuplidateInOrder.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/ArrayRotationFixedLength.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/LongestStringWithNoDuplicate.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/FirstTestingClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/CoreJavaPractise/CoreJavaPractise.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/dwijenPrivate.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LongestSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/LongestSubstring.java">
+      <file leaf-file-name="Paranthesse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Paranthesse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BalanceBrackets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/BalanceBrackets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseProblem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/CourseProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/MergeBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+            <state relative-caret-position="525">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/TreeNode.java">
+      <file leaf-file-name="TwoSome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="690">
+              <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindMaxDepth.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/FindMaxDepth.java">
+      <file leaf-file-name="ThreadPoolTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+            <state relative-caret-position="173">
+              <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CassandraFetcher.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/CassandraFetcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Executor.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1590">
+              <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindConsecutiveStrings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindConsecutiveStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#1392#1393#0" expanded="true" />
+                <element signature="e#1438#1439#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddAllNodesValue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/AddAllNodesValue.java">
+      <file leaf-file-name="AllThreads.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/AllThreads.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="420">
+              <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Multimap.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1.jar!/com/google/common/collect/Multimap.class">
+      <file leaf-file-name="ArrayRotationFixedLength.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/ArrayRotationFixedLength.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,11 +402,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2565">
+              <caret line="210" column="8" lean-forward="false" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -149,10 +429,21 @@
       <find>leetcode</find>
       <find>two</find>
       <find>tree</find>
+      <find>2017-1</find>
+      <find>5yf47</find>
+      <find>charArr</find>
+      <find>head</find>
+      <find>tail</find>
+      <find>~</find>
     </findStrings>
     <replaceStrings>
       <replace>finalMoves</replace>
+      <replace>tail</replace>
+      <replace>head</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$MAVEN_REPOSITORY$/com/ibm/db2jcc/1.3.1/db2jcc-1.3.1.jar</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,21 +456,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/FirstTestingClass.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Redis/RedisConnection.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/Executor/Practice/runnableTask.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/Executor/Practice/Create_table.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/executor/practice/Create_table.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/DealTable.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ResultSetMapper.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/JudgeRouteCircle.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/ThreadPoolConsumer.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/CallingClass.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/testingOwn/ConsumerProcessingClass.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/testingOwn/ThreadPoolConsumer.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/testingOwn/ThreadPoolRunnable.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/funtional/Interface/TestConsumer.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/pom.xml" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/LockConcept.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/SemaphoreConcept.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/reverseLinkList/ProcessOne.java" />
@@ -194,7 +474,6 @@
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/NumberComplement.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/KeywordRow.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/DistributeCandies.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/MergeArray.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/RunnableClass.java" />
@@ -206,11 +485,28 @@
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/UserService.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/Solution.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/KangarooHooping.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/LongestSubstring.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/BalanceBrackets.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/CourseProblem.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/FindMaxDepth.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce/InstalledPackage.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce/InstalledPackages.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears/Project/Test/DB2ConnectionTest.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/DealSource.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/LookupInterface.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/HasPalindrom.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/Enum_GF.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Paranthesse.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/OriginalLinkedList.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindConsecutiveStrings.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/AllThreads.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.java" />
       </list>
     </option>
   </component>
@@ -228,10 +524,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="41" />
-    <option name="width" value="1819" />
-    <option name="height" value="1026" />
+    <option name="x" value="103" />
+    <option name="y" value="26" />
+    <option name="width" value="1920" />
+    <option name="height" value="1105" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -251,7 +547,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,6 +588,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dwijenPrivate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dwijenPrivate" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJavaPractise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="dwijen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -301,6 +607,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwijen" type="462c0819:PsiDirectoryNode" />
+              <item name="practise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dwijenPrivate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dwijenPrivate" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJavaPractise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwijen" type="462c0819:PsiDirectoryNode" />
+              <item name="compare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dwijenPrivate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dwijenPrivate" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJavaPractise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="dwijen" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -311,9 +640,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dwijen" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="treeset" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dwijenPrivate" type="b2602c69:ProjectViewProjectNode" />
@@ -331,14 +659,28 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="com.dwijen.leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="arraysProblem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dwijenPrivate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dwijenPrivate" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJavaPractise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dwijenPrivate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,6 +700,9 @@
       <recent name="com.dwijen" />
       <recent name="" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.salesforce" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CoreJavaPractise/src/main/java" />
     </key>
@@ -374,20 +719,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindMaxDepth.AddNodes">
-    <configuration name="BalanceBrackets.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ThreadPoolTest">
+    <configuration name="AllThreads.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="hackerRank.*" />
+          <option name="PATTERN" value="com.dwijen.leetCode.arraysProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="CoreJavaPractise" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="hackerRank" />
-      <option name="MAIN_CLASS_NAME" value="hackerRank.BalanceBrackets" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="com.dwijen.leetCode.arraysProblem" />
+      <option name="MAIN_CLASS_NAME" value="com.dwijen.leetCode.arraysProblem.AllThreads" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -400,7 +745,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CourseProblem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindConsecutiveStrings.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.dwijen.leetCode.*" />
@@ -411,9 +756,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.dwijen.leetCode" />
-      <option name="MAIN_CLASS_NAME" value="com.dwijen.leetCode.CourseProblem" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.dwijen.leetCode.FindConsecutiveStrings" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -425,7 +770,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CourseProblem.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindConsecutiveStrings.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.dwijen.leetCode.*" />
@@ -436,8 +781,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.dwijen.leetCode" />
-      <option name="MAIN_CLASS_NAME" value="com.dwijen.leetCode.CourseProblem" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="com.dwijen.leetCode.FindConsecutiveStrings" />
+      <option name="METHOD_NAME" value="testCase" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -450,55 +795,43 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FindMaxDepth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dwijen.java.practice.treeset.*" />
+          <option name="PATTERN" value="com.dwijen.cyclic.barrie.practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="CoreJavaPractise" />
+      <option name="MAIN_CLASS_NAME" value="com.dwijen.cyclic.barrie.practise.ThreadPoolTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.dwijen.java.practice.treeset" />
-      <option name="MAIN_CLASS_NAME" value="com.dwijen.java.practice.treeset.FindMaxDepth" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="CoreJavaPractise" />
       <envs />
-      <patterns />
     </configuration>
-    <configuration name="FindMaxDepth.AddNodes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TwoSome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dwijen.java.practice.treeset.*" />
+          <option name="PATTERN" value="com.dwijen.common.cassandra.adaptor.practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="CoreJavaPractise" />
+      <option name="MAIN_CLASS_NAME" value="com.dwijen.common.cassandra.adaptor.practise.TwoSome" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.dwijen.java.practice.treeset" />
-      <option name="MAIN_CLASS_NAME" value="com.dwijen.java.practice.treeset.FindMaxDepth" />
-      <option name="METHOD_NAME" value="AddNodes" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="CoreJavaPractise" />
       <envs />
-      <patterns />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -873,19 +1206,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BalanceBrackets.test2" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CourseProblem.test2" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CourseProblem" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FindMaxDepth.AddNodes" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FindMaxDepth" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FindConsecutiveStrings.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FindConsecutiveStrings.testCase" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AllThreads.test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TwoSome" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ThreadPoolTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FindMaxDepth.AddNodes" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FindMaxDepth" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CourseProblem.test2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CourseProblem" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BalanceBrackets.test2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ThreadPoolTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TwoSome" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AllThreads.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FindConsecutiveStrings.testCase" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FindConsecutiveStrings.test" />
       </list>
     </recent_temporary>
   </component>
@@ -918,7 +1251,14 @@
       <workItem from="1504745492038" duration="1844000" />
       <workItem from="1504973802960" duration="11610000" />
       <workItem from="1510613010894" duration="12673000" />
-      <workItem from="1510709461430" duration="9998000" />
+      <workItem from="1510709461430" duration="12192000" />
+      <workItem from="1511205492859" duration="267000" />
+      <workItem from="1511302792083" duration="592000" />
+      <workItem from="1512073327613" duration="10888000" />
+      <workItem from="1514408868248" duration="970000" />
+      <workItem from="1514925892857" duration="7974000" />
+      <workItem from="1515631759218" duration="16493000" />
+      <workItem from="1516157269539" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit and push">
       <created>1501724601131</created>
@@ -941,63 +1281,68 @@
       <option name="project" value="LOCAL" />
       <updated>1503763793329</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Push to Git Repo">
+      <created>1510862549770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510862549770</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CourseProblem_test2 - 2017.11.15 at 15h 50m 49s.xml">
-      <configuration name="CourseProblem.test2" configurationId="JUnit" />
+    <history-entry file="AllThreads_test - 2018.01.11 at 15h 07m 05s.xml">
+      <configuration name="AllThreads.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth - 2017.11.16 at 11h 18m 31s.xml">
-      <configuration name="FindMaxDepth" configurationId="JUnit" />
+    <history-entry file="AllThreads_test - 2018.01.11 at 15h 07m 27s.xml">
+      <configuration name="AllThreads.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth_AddNodes - 2017.11.16 at 10h 49m 15s.xml">
-      <configuration name="FindMaxDepth.AddNodes" configurationId="JUnit" />
+    <history-entry file="AllThreads_test - 2018.01.11 at 15h 07m 31s.xml">
+      <configuration name="AllThreads.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth_AddNodes - 2017.11.16 at 10h 55m 46s.xml">
-      <configuration name="FindMaxDepth.AddNodes" configurationId="JUnit" />
+    <history-entry file="AllThreads_test - 2018.01.11 at 15h 07m 42s.xml">
+      <configuration name="AllThreads.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth_AddNodes - 2017.11.16 at 11h 13m 21s.xml">
-      <configuration name="FindMaxDepth.AddNodes" configurationId="JUnit" />
+    <history-entry file="FindConsecutiveStrings_testCase - 2018.01.11 at 12h 00m 28s.xml">
+      <configuration name="FindConsecutiveStrings.testCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth_AddNodes - 2017.11.16 at 11h 18m 01s.xml">
-      <configuration name="FindMaxDepth.AddNodes" configurationId="JUnit" />
+    <history-entry file="FindConsecutiveStrings_testCase - 2018.01.11 at 12h 01m 27s.xml">
+      <configuration name="FindConsecutiveStrings.testCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth_AddNodes - 2017.11.16 at 11h 18m 19s.xml">
-      <configuration name="FindMaxDepth.AddNodes" configurationId="JUnit" />
+    <history-entry file="FindConsecutiveStrings_testCase - 2018.01.11 at 12h 01m 52s.xml">
+      <configuration name="FindConsecutiveStrings.testCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth_AddNodes - 2017.11.16 at 11h 22m 44s.xml">
-      <configuration name="FindMaxDepth.AddNodes" configurationId="JUnit" />
+    <history-entry file="FindConsecutiveStrings_testCase - 2018.01.11 at 12h 02m 05s.xml">
+      <configuration name="FindConsecutiveStrings.testCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth_AddNodes - 2017.11.16 at 11h 23m 02s.xml">
-      <configuration name="FindMaxDepth.AddNodes" configurationId="JUnit" />
+    <history-entry file="FindConsecutiveStrings_testCase - 2018.01.11 at 12h 02m 10s.xml">
+      <configuration name="FindConsecutiveStrings.testCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindMaxDepth_AddNodes - 2017.11.16 at 11h 23m 18s.xml">
-      <configuration name="FindMaxDepth.AddNodes" configurationId="JUnit" />
+    <history-entry file="FindConsecutiveStrings_testCase - 2018.01.11 at 12h 04m 15s.xml">
+      <configuration name="FindConsecutiveStrings.testCase" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100240000" />
+    <option name="totallyTimeSpent" value="139680000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="41" width="1819" height="1026" extended-state="0" />
+    <frame x="103" y="26" width="1920" height="1105" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23678415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45592704" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26786718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25292864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865497" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3061674" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35995954" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1009,14 +1354,17 @@
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935324" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46700507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1030,21 +1378,21 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30456853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26274943" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270925" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2949002" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40221915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3147208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25292864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865497" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1141,7 +1489,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java</url>
-          <line>53</line>
+          <line>61</line>
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
@@ -1151,228 +1499,96 @@
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears/Project/Test/DB2ConnectionTest.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears/Project/Test/DB2ConnectionTest.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/Enum_GF.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/HasPalindrom.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/ReverseLinkedList.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindConsecutiveStrings.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindConsecutiveStrings.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="51" />
+      <option name="time" value="80" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="rs.next()" language="JAVA" />
+        <watch expression="rs.getString(3)" language="JAVA" />
+        <watch expression="Collections.binarySearch(list, str.charAt(i))" language="JAVA" />
+        <watch expression="list.remove(str.charAt(i))" language="JAVA" />
+        <watch expression="str.charAt(i)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/SemaphoreConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/reverseLinkList/ProcessOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/bitwise/ReverserBit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="61" lean-forward="false" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/TestComparableExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/ComparableExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="68" lean-forward="false" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/NumberComplement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/JudgeRouteCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/KeywordRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="39" column="70" lean-forward="false" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1138#1139#0" expanded="false" />
-            <element signature="e#1215#1216#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/CatalogDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ContentItemTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/DealTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/FieldName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ItemTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ResultSetMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TableFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TableName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/CassandraFetcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/MergeArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="55" lean-forward="false" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1028#1037#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/DistributeCandies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java" />
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/ConsumerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisCommands.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="318" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/RunnableClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/ArraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1088">
@@ -1399,7 +1615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1417,7 +1632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1425,26 +1639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding>
-            <element signature="e#141#142#0" expanded="false" />
-            <element signature="e#175#176#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1452,16 +1646,255 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/BalanceBrackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/CourseProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="31" lean-forward="false" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/MergeBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/FindMaxDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/AddAllNodesValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1.jar!/com/google/common/collect/Multimap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dwijenPrivate.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/SalesForce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/LookupInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/Sears/Project/Test/DB2ConnectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1830" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="1830" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/PalindromString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/HasPalindrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#506#514#0" expanded="false" />
+            <element signature="e#1801#1802#0" expanded="false" />
+            <element signature="e#1847#1848#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/TestComparableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/ComparableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11115">
+          <caret line="793" column="28" lean-forward="false" selection-start-line="793" selection-start-column="28" selection-end-line="793" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/multiThread/programming/practice/SemaphoreConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/DealSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/Enum_GF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state relative-caret-position="-271">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce/InstalledPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/salesforce/InstalledPackages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/DjLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/OriginalLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#310#0" expanded="true" />
+            <element signature="e#590#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/bitwise/ReverserBit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="210" column="8" lean-forward="false" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -1474,65 +1907,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/hackerRank/BalanceBrackets.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindConsecutiveStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1.jar!/com/google/common/collect/Multimap.class">
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/arraysProblem/AllThreads.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/CourseProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="32" />
+        <state relative-caret-position="420">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/MergeBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/ArrayRotationFixedLength.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Paranthesse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="525">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/AddAllNodesValue.java">
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/TwoSome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state relative-caret-position="690">
+          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/treeset/FindMaxDepth.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1590">
+          <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/CassandraFetcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

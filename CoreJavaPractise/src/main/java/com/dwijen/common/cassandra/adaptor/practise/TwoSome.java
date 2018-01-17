@@ -34,11 +34,11 @@ public class TwoSome {
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();
         for (int i = 0; i < numbers.length; i++) {
             if (map.containsKey(target - numbers[i])) {
-                result[1] = i + 1;
+                result[1] = i ;
                 result[0] = map.get(target - numbers[i]);
                 return result;
             }
-            map.put(numbers[i], i + 1);
+            map.put(numbers[i], i );
         }
         return result;
     }
@@ -46,9 +46,9 @@ public class TwoSome {
     public static void main(String[] args){
         int[] arays = {1,2,3,3};
         int target = 6;
-        //int[] outPut = twoSum_2(arays, target);
-        int[] outPut = twoSum(arays, target);
-        Arrays.stream(outPut).forEach(System.out::print);
+        int[] outPut = twoSum_2(arays, target);
+        //int[] outPut = twoSum(arays, target);
+        Arrays.stream(outPut).forEach(x->System.out.print(x));
 
     }
 }
