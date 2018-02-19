@@ -13,11 +13,11 @@ public class ProcessOne {
          E e = linkedList.getLast();
          LinkedList l = new LinkedList();
          LinkedList<E> copyList = new LinkedList<E>();
-         linkedList.stream().forEach(x -> copyList.addFirst(x));
+//         linkedList.stream().forEach(x -> copyList.addFirst(x));
 
-/*         while(linkedList.peekLast() != null){
+         while(linkedList.peekLast() != null){
             copyList.addLast(linkedList.removeLast());
-         }*/
+         }
         return copyList;
     }
 

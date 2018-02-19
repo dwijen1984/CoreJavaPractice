@@ -13,19 +13,18 @@ public class InsertionSort {
      So, time complexity is O(n2), not very good for big array with millions data array
      */
 
-    public void insertionSort(int[] inputArray){
-        int tmp;
-        for(int i = 1; i< inputArray.length; i++){
-            int key = inputArray[i];
+    public void insertionSort(int[] a){
+        int len = a.length;
+        for(int i = 1; i <len; i++){
+            int key = a[i];
             int j = i-1;
-            while(j>= 0 && key < inputArray[j]){
-                tmp = inputArray[j];
-                inputArray[j] = inputArray[j+1];
-                inputArray[j+1] = tmp;
+            while(j>= 0 && a[j]> key){
+                int tmp = a[j+1];
+                a[j+1] = a[j];
+                a[j] = tmp;
                 j--;
             }
         }
-        System.out.printf("Sorted Array: "+ Arrays.toString(inputArray));
     }
 
     @Test
@@ -33,5 +32,6 @@ public class InsertionSort {
         int[] input = {9,8,6,2,4,3,5,1};
         System.out.println("Input Array: "+Arrays.toString(input));
         insertionSort(input);
+        System.out.println("insertionSort(input):"+Arrays.toString(input));
     }
 }

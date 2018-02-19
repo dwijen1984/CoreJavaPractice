@@ -21,7 +21,8 @@ public class FibonaciSeries {
     @Test
     public void test(){
         //solution(10);
-        findLength(123456789);
+        //findLength(123456789);
+        System.out.println(RecursiveFibonaciSeries(5));
     }
 
     public void findLength(int n){
@@ -34,4 +35,18 @@ public class FibonaciSeries {
             System.out.println("Max size :"+Integer.MIN_VALUE);
         }
     }
+
+    public static int chk(Double d1, Double d2){
+        return (int)(d1*d2);
+    }
+    public int RecursiveFibonaciSeries(int series){
+        if(series == 1){
+            return 1;
+        }else if (series == 0){
+            return 0;
+        }else{
+            return (RecursiveFibonaciSeries(series -1) + RecursiveFibonaciSeries(series-2));
+        }
+    }
+
 }
