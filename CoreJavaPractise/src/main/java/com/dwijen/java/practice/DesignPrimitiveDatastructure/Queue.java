@@ -26,11 +26,11 @@ public class Queue<T> {
     public boolean add(T value){
         if(!isFull()){
             length++;
-            rear = 0;
+            //top = 0;
             // this is for cyclic use
             // one the front and rear are same it will add elements again form 0th position
-            top = (top+1)%size;
-            inQueue[top] = value;
+            rear = (rear+1)%size;
+            inQueue[rear] = value;
             return true;
         }
         return false;
@@ -40,8 +40,9 @@ public class Queue<T> {
         T returnVal = null;
         if(!isEmpty()){
             length--;
-            returnVal = inQueue[rear];
-            rear = (rear + 1) % size;
+            top = (top + 1) % size;
+            returnVal = inQueue[top];
+
 
             return returnVal;
         }

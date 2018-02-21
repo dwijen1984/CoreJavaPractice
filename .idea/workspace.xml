@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1bcadc2-7011-4646-bc8e-150240dccf32" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Difficulty/Medimum/TinyUrl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/GCD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/MaxRepeating.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/PatternSearch/AnagramSearch/GFG.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/TopFive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/UniqueCharecter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/CodeWar/LowHigh.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/CodeWar/SeriesSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting/BubbleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/jconsole/jmx/Hello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/jconsole/jmx/HelloMBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/jconsole/jmx/SimpleAgent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/Sorting/InsertionSort.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/Sorting/InsertionSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/compare/TestComparableExample.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/compare/TestComparableExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/CyclicBarrierCallingClass.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/CyclicBarrierCallingClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/ThreadPoolTest$MyRunnable.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/ThreadPoolTest$MyRunnable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/cyclic/barrie/practise/ThreadPoolTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/java/practice/reverseLinkList/ProcessOne.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/java/practice/reverseLinkList/ProcessOne.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/leetCode/AddStrings.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/leetCode/AddStrings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/leetCode/FibonaciSeries.class" afterPath="$PROJECT_DIR$/CoreJavaPractise/target/classes/com/dwijen/leetCode/FibonaciSeries.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/AddStrings.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/AddStrings.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FibonaciSeries.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FibonaciSeries.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting/InsertionSort.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting/InsertionSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/TestComparableExample.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/TestComparableExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/CyclicBarrierCallingClass.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/CyclicBarrierCallingClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/reverseLinkList/ProcessOne.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/reverseLinkList/ProcessOne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Queue.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Queue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java" afterPath="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/CoreJavaPractise/target/" />
@@ -308,60 +285,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TinyUrl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Difficulty/Medimum/TinyUrl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting/InsertionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FibonaciSeries.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FibonaciSeries.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FibonaciSeries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="101">
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding>
                 <element signature="e#1042#1043#0" expanded="true" />
                 <element signature="e#1077#1078#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LowHigh.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/CodeWar/LowHigh.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SeriesSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/CodeWar/SeriesSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -387,34 +318,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DecimalFormat.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/text/DecimalFormat.java">
+      <file leaf-file-name="DjLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/DjLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="460" column="11" lean-forward="false" selection-start-line="460" selection-start-column="11" selection-end-line="460" selection-end-column="11" />
+            <state relative-caret-position="-54">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Locale.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Locale.java">
+      <file leaf-file-name="AddTwoLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="2312" column="8" lean-forward="false" selection-start-line="2312" selection-start-column="8" selection-end-line="2312" selection-end-column="8" />
+            <state relative-caret-position="739">
+              <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting/BubbleSort.java">
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="42">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-275">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Paranthesse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Paranthesse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StackCheckMainClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OriginalLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/OriginalLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -468,7 +439,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/MergeArray.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/RunnableClass.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/predicate/practice/ConsumerTest.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Redis/practice/RedisConnection.java" />
@@ -493,7 +463,6 @@
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/cyclic/barrie/practise/Enum_GF.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Paranthesse.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/common/cassandra/adaptor/practise/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/OriginalLinkedList.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FindConsecutiveStrings.java" />
@@ -515,10 +484,12 @@
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Difficulty/Medimum/TinyUrl.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting/BubbleSort.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/Sorting/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FibonaciSeries.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/CodeWar/LowHigh.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/CodeWar/SeriesSum.java" />
         <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/PatternSearch/AnagramSearch/GFG.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FibonaciSeries.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Queue.java" />
+        <option value="$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java" />
       </list>
     </option>
   </component>
@@ -541,8 +512,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="127" />
+    <option name="x" value="48" />
+    <option name="y" value="91" />
     <option name="width" value="1920" />
     <option name="height" value="1097" />
   </component>
@@ -661,6 +632,29 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="dwijen" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dwijenPrivate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dwijenPrivate" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJavaPractise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwijen" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignPrimitiveDatastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dwijenPrivate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dwijenPrivate" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJavaPractise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dwijen" type="462c0819:PsiDirectoryNode" />
               <item name="jmx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -765,7 +759,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GFG">
+  <component name="RunManager" selected="JUnit.StackCheckMainClass.testQueue">
+    <configuration name="FibonaciSeries.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dwijen.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="CoreJavaPractise" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.dwijen.leetCode" />
+      <option name="MAIN_CLASS_NAME" value="com.dwijen.leetCode.FibonaciSeries" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="GFG" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -816,19 +835,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="LowHigh.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StackCheckMainClass.testDjLinkedLisr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dwijen.CodeWar.*" />
+          <option name="PATTERN" value="com.dwijen.java.practice.DesignPrimitiveDatastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="CoreJavaPractise" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.dwijen.CodeWar" />
-      <option name="MAIN_CLASS_NAME" value="com.dwijen.CodeWar.LowHigh" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.dwijen.java.practice.DesignPrimitiveDatastructure" />
+      <option name="MAIN_CLASS_NAME" value="com.dwijen.java.practice.DesignPrimitiveDatastructure.StackCheckMainClass" />
+      <option name="METHOD_NAME" value="testDjLinkedLisr" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -841,44 +860,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SeriesSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StackCheckMainClass.testQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dwijen.CodeWar.*" />
+          <option name="PATTERN" value="com.dwijen.java.practice.DesignPrimitiveDatastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="CoreJavaPractise" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.dwijen.CodeWar" />
-      <option name="MAIN_CLASS_NAME" value="com.dwijen.CodeWar.SeriesSum" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SeriesSum.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.dwijen.CodeWar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="CoreJavaPractise" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.dwijen.CodeWar" />
-      <option name="MAIN_CLASS_NAME" value="com.dwijen.CodeWar.SeriesSum" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.dwijen.java.practice.DesignPrimitiveDatastructure" />
+      <option name="MAIN_CLASS_NAME" value="com.dwijen.java.practice.DesignPrimitiveDatastructure.StackCheckMainClass" />
+      <option name="METHOD_NAME" value="testQueue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1264,19 +1258,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LowHigh.test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SeriesSum.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SeriesSum" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.GFG.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.GFG" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.GFG.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.GFG" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FibonaciSeries.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StackCheckMainClass.testDjLinkedLisr" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StackCheckMainClass.testQueue" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GFG" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.GFG.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SeriesSum.test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SeriesSum" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LowHigh.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.StackCheckMainClass.testQueue" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.StackCheckMainClass.testDjLinkedLisr" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FibonaciSeries.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.GFG" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.GFG.test" />
       </list>
     </recent_temporary>
   </component>
@@ -1323,7 +1317,7 @@
       <workItem from="1517598977929" duration="1962000" />
       <workItem from="1517857329098" duration="8571000" />
       <workItem from="1518215675701" duration="2420000" />
-      <workItem from="1518548842649" duration="16951000" />
+      <workItem from="1518548842649" duration="23457000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit and push">
       <created>1501724601131</created>
@@ -1360,33 +1354,25 @@
       <option name="project" value="LOCAL" />
       <updated>1516157350137</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Push to Git Repo">
+      <created>1519069098589</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1519069098589</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="FibonaciSeries_test - 2018.02.19 at 11h 40m 29s.xml">
+      <configuration name="FibonaciSeries.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonaciSeries_test - 2018.02.19 at 11h 42m 39s.xml">
+      <configuration name="FibonaciSeries.test" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="GFG - 2018.02.19 at 11h 36m 32s.xml">
       <configuration name="GFG" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GFG_test - 2018.02.19 at 10h 52m 11s.xml">
-      <configuration name="GFG.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GFG_test - 2018.02.19 at 10h 58m 12s.xml">
-      <configuration name="GFG.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GFG_test - 2018.02.19 at 11h 01m 35s.xml">
-      <configuration name="GFG.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GFG_test - 2018.02.19 at 11h 02m 19s.xml">
-      <configuration name="GFG.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GFG_test - 2018.02.19 at 11h 18m 07s.xml">
-      <configuration name="GFG.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GFG_test - 2018.02.19 at 11h 19m 51s.xml">
-      <configuration name="GFG.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GFG_test - 2018.02.19 at 11h 34m 47s.xml">
-      <configuration name="GFG.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="GFG_test - 2018.02.19 at 11h 35m 24s.xml">
       <configuration name="GFG.test" configurationId="JUnit" />
@@ -1394,12 +1380,27 @@
     <history-entry file="GFG_test - 2018.02.19 at 11h 36m 20s.xml">
       <configuration name="GFG.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="StackCheckMainClass_testDjLinkedLisr - 2018.02.19 at 15h 01m 07s.xml">
+      <configuration name="StackCheckMainClass.testDjLinkedLisr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackCheckMainClass_testQueue - 2018.02.20 at 17h 06m 04s.xml">
+      <configuration name="StackCheckMainClass.testQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackCheckMainClass_testQueue - 2018.02.20 at 17h 20m 45s.xml">
+      <configuration name="StackCheckMainClass.testQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackCheckMainClass_testQueue - 2018.02.20 at 17h 21m 20s.xml">
+      <configuration name="StackCheckMainClass.testQueue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackCheckMainClass_testQueue - 2018.02.20 at 17h 21m 47s.xml">
+      <configuration name="StackCheckMainClass.testQueue" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191358000" />
+    <option name="totallyTimeSpent" value="197864000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="127" width="1920" height="1097" extended-state="0" />
+    <frame x="48" y="91" width="1920" height="1097" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1414,6 +1415,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23109691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46475995" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40858018" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1431,7 +1433,6 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46569344" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1591,7 +1592,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java</url>
-          <line>56</line>
+          <line>58</line>
           <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
@@ -1703,8 +1704,14 @@
           <properties />
           <option name="timeStamp" value="117" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="124" />
+      <option name="time" value="126" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1725,20 +1732,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/ComparableExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/compare/TestComparableExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/jconsole/jmx/HelloMBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1817,35 +1810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/OriginalLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-393">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1994,14 +1958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/DjLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/TopFive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -2124,6 +2080,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FibonaciSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/PatternSearch/AnagramSearch/GFG.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -2132,14 +2099,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/FibonaciSeries.java">
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/OriginalLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="143">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/DjLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/AddTwoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com.dwijen.leetCode/Paranthesse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/StackCheckMainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
-            <element signature="e#1042#1043#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJavaPractise/src/main/java/com/dwijen/java/practice/DesignPrimitiveDatastructure/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

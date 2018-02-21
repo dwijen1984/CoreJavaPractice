@@ -43,7 +43,7 @@ public class FibonaciSeries {
         if(series == 1){
             return 1;
         }else if (series == 0){
-            return 0;
+            return 1;
         }else{
             return (RecursiveFibonaciSeries(series -1) + RecursiveFibonaciSeries(series-2));
         }

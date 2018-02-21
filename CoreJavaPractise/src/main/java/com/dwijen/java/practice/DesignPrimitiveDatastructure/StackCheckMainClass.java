@@ -1,5 +1,6 @@
 package com.dwijen.java.practice.DesignPrimitiveDatastructure;
 
+import com.sun.javafx.scene.control.skin.VirtualFlow;
 import org.junit.Test;
 
 public class StackCheckMainClass {
@@ -20,10 +21,11 @@ public class StackCheckMainClass {
     @Test
     public void testQueue(){
         Queue stack = new Queue<String>();
-        stack.add("a");stack.add("b");stack.add("c");stack.add("d");
-
-
+        stack.add("a");
+        stack.add("b");
+        stack.add("c");
         System.out.println(stack.remove());
+        stack.add("d");
         System.out.println(stack.remove());
         System.out.println(stack.remove());
         System.out.println(stack.remove());
