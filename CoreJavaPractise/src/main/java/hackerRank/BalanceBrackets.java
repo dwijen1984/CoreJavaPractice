@@ -9,6 +9,7 @@ import java.util.*;
 
 public class BalanceBrackets {
     /*
+    added changes
     1. opening bracket, push in stack
     2. found closing bracket
         i. stack.pop(opening) is matching with closing bracket - then balanced
