@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class SingleLinkedList{
 
-    static Node head = null;
+    Node head = null;
 
     // This will add at the top or first
     public void add(int value){
@@ -17,6 +17,19 @@ public class SingleLinkedList{
             head = newNode;
             head.next = temp;
         }
+    }
+    public void addAtEnd(int value){
+        Node newNode = new Node(value);
+        Node tail = head;
+        while(tail != null && tail.next!= null){
+            tail = tail.next;
+        }
+        if(tail != null){
+            tail.next = newNode;
+        }else{
+            tail = newNode;
+        }
+
     }
     public boolean remove(int value){
         Node currentNode = head;
@@ -48,9 +61,11 @@ public class SingleLinkedList{
         lst.add(3);
         lst.add(4);
         lst.add(5);
+        //printAllNode(lst);
+        lst.addAtEnd(7);
         printAllNode(lst);
-        lst.remove(3);
-        printAllNode(lst);
+        /*lst.remove(3);
+        printAllNode(lst);*/
 
 
     }
